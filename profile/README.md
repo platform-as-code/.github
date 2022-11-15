@@ -11,4 +11,7 @@ We will release very soon a first version of the platform (v0.1.0) where you wil
 ## Useful informations
 
 ### Roadmap & changelog
-If you want to follow our last releases and see what's coming next, please visit [our Github releases page](https://github.com/platform-as-code/.github/releases).
+To follow our last releases and see what's coming next, please visit [our Github releases page](https://github.com/platform-as-code/.github/releases).
+
+### Examples
+To help you using our platform faster, we created a public repository [examples](https://github.com/platform-as-code/examples) where you can find differents templates, examples and configurations. We hope you can find here what you need to deploy quickly your code.
